@@ -5,3 +5,15 @@ All it does is load the game off of the [i-Ready CDN server](https://cdn.i-ready
 
 # Compatability
 You can only run iReadyGL from **Chrome**, **Firefox**, **Edge**, and **Safari**.
+
+# Install Guide
+## Windows/macOS
+1. Go to the `irgl-stable-release.zip` file in Downloads or your predefined download location. Right-click or Ctrl+Click. Select "Extract all..." and also select this for any popup message.
+2. Open the new `irgl` folder and open the `irgl.html` file.
+
+## iPadOS
+1. Go to **Files > Downloads** and locate the `irgl-stable-release.zip` and open it. The file will auto-extract with no popups.
+2. Open the new `irgl` folder and open the `irgl.html` file.
+
+## Browser
+[Click here to view in browser](https://yourworstnightmare1.github.io/assets/irgl/v2/r1/irgl.html)
