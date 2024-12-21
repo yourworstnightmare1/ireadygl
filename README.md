@@ -3,9 +3,8 @@ iReadyGL is a simple GUI-based HTML page allows you to play i-Ready games that r
 ## How does this work?
 All it does is load the game off of the [i-Ready CDN server](https://cdn.i-ready.com) as loading the game doesn't require any special token or key to access. We just sort it in some fancy UI.
 
-# Compatability
-You can only run iReadyGL from **Chrome**, **Firefox**, **Edge**, **Safari** (Browser), **macOS**, **Windows**, **ChromeOS**, **iPadOS**, **iOS**, **Android** (App).
-
+# Compatibility
+You can only run iReadyGL from **Chrome**, **Firefox**, **Edge**, and **Safari**.
 # Install Guide
 ## Windows/macOS
 1. Go to the `irgl-stable-release.zip` file in Downloads or your predefined download location. Right-click or Ctrl+Click. Select "Extract all..." and also select this for any popup message.
